@@ -1,6 +1,7 @@
 ﻿# GoogleCloudReady Student Enrolment Instructions 
 
-https://services.google.com/fh/files/misc/crf21-rect-banner.png
+![crf21-rect-banner](https://user-images.githubusercontent.com/73075078/113981765-aa3a5300-9865-11eb-9a49-ddd150c3e96b.png)
+
 
 ## Steps to Enroll for Google Cloud Ready Facilitator Program!! It's Free
 
