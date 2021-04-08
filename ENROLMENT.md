@@ -53,5 +53,6 @@ Group 2 - https://chat.whatsapp.com/ELzSbPMP6ryGvZAQ6jmv0h
 
 Follow Us on LinkedIn:
 Vikram Gaur : https://www.linkedin.com/in/vikram-gaur-0252aa185
+
 Rishabh Vyas : https://www.linkedin.com/in/rishabhvyas2001
 
