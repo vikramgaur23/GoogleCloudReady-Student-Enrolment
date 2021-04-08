@@ -48,6 +48,7 @@
 14) You can check syllabus Here:- [https://events.withgoogle.com/googlecloudready-facilitator-program/](https://events.withgoogle.com/googlecloudready-facilitator-program/)
 
 🔰 Join the WhatsApp Group Below:
+
 Group 1 - https://chat.whatsapp.com/FY4p1vh927qBkzPMXc9WFN
 
 Group 2 - https://chat.whatsapp.com/ELzSbPMP6ryGvZAQ6jmv0h 
